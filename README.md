@@ -25,6 +25,7 @@ Tesla is the undisputed market leader. The Model Y and Model 3 are the most popu
 
 #### 3. Geographic Hotspots 🗺️
 EV ownership is highly concentrated in specific areas. King County, WA (home to Seattle) is a major hotspot, with far more registrations than surrounding counties.
+![Major Registrations](https://github.com/eshwarvirabhadra/EV-Market-Analysis/blob/main/City.png)
 
 #### 4. The Rise of All-Electric 🔋
 Battery Electric Vehicles (BEVs) are overwhelmingly more popular than Plug-in Hybrid Electric Vehicles (PHEVs). This suggests consumers are confidently making the full switch to electric.
