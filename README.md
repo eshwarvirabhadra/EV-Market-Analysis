@@ -17,13 +17,11 @@ This analysis explores the following key questions:
 
 #### 1. Explosive Market Growth
 EV adoption has been accelerating since 2016, with 2023 seeing a massive spike in new registrations. My forecast shows this exponential trend is set to continue.
-*(Here, you would add the link to your forecast chart image)*
-`![EV Market Forecast](link_to_your_forecast_chart.png)`
+
 
 #### 2. Tesla's Market Dominance 👑
 Tesla is the undisputed market leader. The Model Y and Model 3 are the most popular EVs by a significant margin, showcasing strong brand loyalty and consumer preference.
-*(Here, you would add the link to your top models chart)*
-`![Top Models by Registrations](link_to_your_top_models_chart.png)`
+
 
 #### 3. Geographic Hotspots 🗺️
 EV ownership is highly concentrated in specific areas. King County, WA (home to Seattle) is a major hotspot, with far more registrations than surrounding counties.
