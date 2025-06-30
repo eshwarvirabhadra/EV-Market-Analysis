@@ -17,7 +17,7 @@ This analysis explores the following key questions:
 
 #### 1. Explosive Market Growth
 EV adoption has been accelerating since 2016, with 2023 seeing a massive spike in new registrations. My forecast shows this exponential trend is set to continue.
-
+![EV Adoption Chart](Adoption_chart.png)
 
 #### 2. Tesla's Market Dominance 👑
 Tesla is the undisputed market leader. The Model Y and Model 3 are the most popular EVs by a significant margin, showcasing strong brand loyalty and consumer preference.
