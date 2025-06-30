@@ -21,7 +21,7 @@ EV adoption has been accelerating since 2016, with 2023 seeing a massive spike i
 
 #### 2. Tesla's Market Dominance 👑
 Tesla is the undisputed market leader. The Model Y and Model 3 are the most popular EVs by a significant margin, showcasing strong brand loyalty and consumer preference.
-![Tesla's Market Dominance]([Top 3 EV Models.png](https://github.com/eshwarvirabhadra/EV-Market-Analysis/commit/987ff6a17ca84298ec0629ca4abfbce74e39dbb9))
+![Tesla's Market Dominance]([Top 3 EV Models.png]
 
 #### 3. Geographic Hotspots 🗺️
 EV ownership is highly concentrated in specific areas. King County, WA (home to Seattle) is a major hotspot, with far more registrations than surrounding counties.
