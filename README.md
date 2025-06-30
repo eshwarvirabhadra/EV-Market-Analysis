@@ -28,6 +28,7 @@ EV ownership is highly concentrated in specific areas. King County, WA (home to 
 
 #### 4. The Rise of All-Electric 🔋
 Battery Electric Vehicles (BEVs) are overwhelmingly more popular than Plug-in Hybrid Electric Vehicles (PHEVs). This suggests consumers are confidently making the full switch to electric.
+![Forecast](https://github.com/eshwarvirabhadra/EV-Market-Analysis/commit/9a20cf38ac1f8055487013b036b9c97548171587)
 
 ---
 
